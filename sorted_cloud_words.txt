@@ -1,0 +1,240 @@
+ship 1927
+computer 1385
+captain picard 972
+life 921
+q 772
+power 772
+mister data 733
+aye sir 701
+bridge 697
+starfleet 673
+klingon 649
+federation 648
+la forge 638
+commander riker 609
+tasha 606
+planet 600
+guinan 590
+romulan 575
+report 515
+lwaxana 485
+ensign ro 477
+human 472
+mister worf 470
+number one 468
+transporter 461
+shields 446
+counsellor troi 439
+crew 411
+vessel 396
+mother 393
+doctor crusher 376
+captains log 374
+borg 367
+phasers 351
+security 341
+readings 339
+programme 338
+stardate 330
+engines 324
+engineering 320
+alexander 318
+mission 316
+weapons 312
+patterns 299
+admiral 297
+medical 291
+information 289
+what happened 277
+problem 272
+quarters 266
+subspace 263
+fire 256
+position 255
+signal 253
+contact 252
+chief 249
+sickbay 246
+space 243
+starship 242
+holodeck 241
+station 240
+love 240
+ambassador 238
+question 233
+orbit 229
+vash 218
+scan 217
+core 217
+situation 214
+ferengi 214
+gowron 213
+world 210
+damage 210
+war 205
+away team 205
+probe 201
+starbase 200
+honour 190
+beverly 186
+proceed 185
+message 185
+speed 184
+sector 183
+earth 183
+lock 182
+kehleyr 179
+go ahead 178
+risk 177
+deck 177
+duty 176
+transporter room 175
+alien 173
+radiation 171
+moriarty 170
+force 170
+emergency 170
+first officer 169
+evidence 169
+analysis 169
+trust 164
+plasma 164
+on screen 164
+coordinates 162
+humans 159
+star 158
+battle 155
+colony 154
+supplemental 153
+spock 144
+jellico 143
+engage 140
+shelby 139
+peace 138
+cardassian 137
+duras 136
+sarek 133
+device 132
+keiko 131
+android 131
+soong 129
+vulcan 126
+soren 125
+mister crusher 125
+heading 125
+impossible 124
+academy 124
+kahless 123
+shuttlecraft 120
+neutral zone 119
+kurn 119
+jameson 119
+technology 118
+ardra 118
+acknowledged 118
+tractor beam 116
+timicin 112
+science 112
+diagnostic 112
+alkar 112
+respect 111
+research 111
+captain okona 111
+array 111
+kamala 108
+danger 108
+communication 108
+uss enterprise 104
+galaxy 104
+make it so 92
+chief obrien 90
+ten forward 90
+doctor pulaski 85
+red alert 81
+lieutenant yar 79
+life support 77
+something wrong 76
+life forms 72
+hailing frequencies 67
+set course 66
+photon torpedoes 61
+warp nine 60
+ready room 57
+sensors indicate 55
+personal log 55
+beam up 45
+welcome aboard 44
+star system 44
+prime directive 44
+light years 43
+mister barclay 41
+containment field 41
+not responding 37
+high council 35
+observation lounge 34
+distress call 34
+radiation levels 33
+tin man 32
+en route 30
+all hands 29
+distress signal 28
+cloaking device 28
+vital signs 26
+escape pod 26
+prime minister 24
+core breach 24
+under attack 23
+full stop 23
+visual range 22
+darmok and jalad 21
+tanagra 21
+zero mark 20
+saucer section 20
+request permission 20
+negative sir 20
+photon torpedo 19
+intercept course 19
+farpoint 19
+direct hit 19
+permission granted 18
+old friend 18
+closer look 18
+tachyon pulse 17
+structural integrity 17
+crystalline entity 17
+sherlock holmes 16
+particle stream 16
+main deflector 16
+dilithium chamber 16
+visual contact 15
+professor galen 15
+omicron theta 15
+main shuttlebay 15
+galaxy class 15
+court martial 15
+tea earl grey 14
+starboard nacelle 14
+neural net 14
+nelvana three 14
+molecular structure 14
+inertial dampers 14
+functioning normally 14
+demilitarised zone 14
+space-time continuum 13
+positronic net 13
+particle fountain 13
+battle bridge 13
+asteroid belt 13
+ambassador sarek 13
+subspace distortion 12
+standard procedure 12
+soliton wave 12
+evasive manoeuvres 12
+deflector dish 12
+time continuum 11
+tetryon emissions 11
+resistance is futile 11
+hull temperature 11
+helm control 11
+full diagnostic 11
+collision course 11
